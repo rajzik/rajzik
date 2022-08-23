@@ -27,6 +27,11 @@ My name is Jan and I am frontend engineer that cares too much about new tech & c
   <img alt="tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
   <img alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40" />
 </div>
+
+### :fire: Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajzik&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
 <!--
 **rajzik/rajzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
