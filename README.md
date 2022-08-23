@@ -9,6 +9,8 @@
 
 ### 👋 Hi there
 
+My name is Jan and I am frontend engineer that cares too much about new tech & clean code. (¯\\_(ツ)_/¯)
+
 ### :hammer_and_wrench: Languages and Tools
 
 <div>
