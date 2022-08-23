@@ -11,19 +11,20 @@
 
 ### :hammer_and_wrench: Languages and Tools
 
-<img alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
-<img alt="mui" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40" height="40" />
-<img alt="flutter" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40" />
-<img alt="css" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
-<img alt="html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />
-<img alt="node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-<img alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40" />
-<img alt="deno" src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg" width="40" height="40" />
-<img alt="graphql" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="40" height="40" />
-<img alt="jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="40" height="40" />
-<img alt="tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
-<img alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40" />
-
+<div>
+  <img alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+  <img alt="mui" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40" height="40" />
+  <img alt="flutter" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40" />
+  <img alt="css" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
+  <img alt="html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />
+  <img alt="node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+  <img alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40" />
+  <img alt="deno" src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg" width="40" height="40" />
+  <img alt="graphql" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="40" height="40" />
+  <img alt="jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="40" height="40" />
+  <img alt="tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+  <img alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40" />
+</div>
 <!--
 **rajzik/rajzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
