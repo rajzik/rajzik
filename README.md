@@ -1,3 +1,12 @@
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611827a077cabf648a4ef906f910b3cfc5ba23c73c8&rid=giphy.gif&ct=g" width="600"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/jan-%C5%A1ilhan-a7361463/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
+
 ### Hi there 👋
 
 <!--
